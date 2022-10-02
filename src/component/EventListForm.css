@@ -1,0 +1,13 @@
+.event-add-form label, 
+.event-add-form input 
+{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    box-sizing: border-box; 
+}
+label span{
+color: rgb(255, 140, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: large;
+}
