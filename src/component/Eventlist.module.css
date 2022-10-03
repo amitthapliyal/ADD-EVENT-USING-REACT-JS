@@ -1,15 +1,16 @@
 .card {
     width: 400px;
     padding: 20px;
-    box-shadow: 0px 0px 5px grey;
+    box-shadow: 0px 0px 5px rgb(205, 2, 2);
     margin: 10px auto;
     text-align: center;
-    color: blue;
+    color: rgb(237, 237, 237);
     cursor: pointer;
+    background: rgb(60, 115, 142);
 }
 
 .card button {
-    background-color: crimson;
+    background-color: rgb(92, 39, 5);
     color: white;
     border: 0;
     padding: 5px 10px;
